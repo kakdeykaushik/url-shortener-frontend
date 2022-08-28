@@ -1,7 +1,7 @@
 // ozrCc5W
 
 
-export const BASE = "http://127.0.0.1:8000/";
+export const BASE = "https://kinara-backend.herokuapp.com/";
 
 export const REGISTER = BASE + "auth/register/";
 export const LOGIN = BASE + "auth/login/";
