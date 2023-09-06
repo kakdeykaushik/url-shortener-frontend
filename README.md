@@ -3,7 +3,7 @@ A minimal URL shortner app with user management made with using **Django**(backe
 
 
 # Backend
-Backend repo = https://github.com/kakdeykaushik/kinara-backend
+Backend repo = [https://github.com/kakdeykaushik/kinara-backend](https://github.com/kakdeykaushik/url-shortener-backend)
 
 
 
